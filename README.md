@@ -4,10 +4,10 @@
 
 # 💫About Me :
 - 🔭 I’m currently studying CSE 
-- 🌱 I’m currently a Junior Web Developer.
+- 🌱 I’m currently a Web Developer.
 - 🤔 I’m looking for a Part Time job as a Web Developer
 - 💬 Ask me about Flutter or any tech-related stuff.
-- 😄 Pronouns: He/His
+- 😄 Pronouns: He
 - ⚡ Fun fact: I spend almost 12 hours sleeping to songs every day.
 
 ## 🌐Socials
